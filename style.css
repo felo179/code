@@ -1,0 +1,350 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+
+header {
+    width: 100%;
+    height: 139px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 80px;
+    border-bottom: 1px gray solid;
+}
+
+header ul {
+    width: 40%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: Roboto;
+}
+
+.div1 {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.img1 {
+    width: 18.18px;
+    height: 24px;
+}
+
+.img2 {
+    width: 25px;
+    height: 25px;
+}
+
+main {
+    width: 100%;
+    padding: 5% 2%;
+}
+
+main img {
+    width: 100%;
+}
+
+.div2 {
+    position: absolute;
+    top: 1150px;
+    left: 150px;
+}
+
+.p1 {
+    width: 355px;
+    height: 174px;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    text-align: left;
+}
+
+.div3 {
+    position: absolute;
+    top: 1150px;
+    left: 750px;
+}
+
+.p2 {
+    width: 569px;
+    height: 160px;
+    font-family: Roboto;
+    font-size: 24px;
+}
+
+.div4 {
+    width: 588px;
+    height: 412px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    position: absolute;
+    top: 1400px;
+    padding: 4%;
+    gap: 3%;
+}
+
+.div5 {
+    width: 588px;
+    height: 412px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    position: absolute;
+    top: 1850px;
+    padding: 4%;
+    gap: 3%;
+}
+
+.div6 {
+    width: 941px;
+    height: 48px;
+    font-size: 48px;
+    font-weight: 400;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    position: absolute;
+    top: 2300px;
+    left: 280px;
+}
+
+.div7 {
+    width: 1144.5px;
+    height: 327px;
+    position: absolute;
+    top: 2500px;
+    left: 225px;
+}
+
+.div8 {
+    width: 1344px;
+    height: 736px;
+    position: absolute;
+    top: 2950px;
+}
+
+.div9 {
+    width: 1077px;
+    height: 168px;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+    position: absolute;
+    top: 3750px;
+    left: 220px;
+}
+
+.div10 {
+    width: 162px;
+    height: 121px;
+    position: absolute;
+    top: 4000px;
+    left: 280px;
+
+}
+
+.div11 {
+    width: 162px;
+    height: 121px;
+    position: absolute;
+    top: 4000px;
+    left: 650px;
+}
+
+.div12 {
+    width: 162px;
+    height: 121px;
+    position: absolute;
+    top: 4000px;
+    left: 1000px;
+}
+
+.div13 {
+    width: 316px;
+    height: 120px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    top: 4150px;
+    left: 280px;
+}
+
+.div14 {
+    width: 299px;
+    height: 144px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    top: 4150px;
+    left: 650px;
+}
+
+.div15 {
+    width: 323px;
+    height: 120px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    top: 4150px;
+    left: 1000px;
+}
+
+.div16 {
+    width: 1296px;
+    height: 800px;
+    position: absolute;
+    top: 4400px;
+}
+
+.div17 {
+    width: 882px;
+    height: 260px;
+    font-family: Roboto;
+    font-size: 46px;
+    font-weight: 400;
+    position: absolute;
+    top: 5350px;
+    left: 250px;
+}
+
+.div18 {
+    width: 861px;
+    height: 52px;
+    font-family: Roboto;
+    font-size: 46px;
+    font-weight: 400;
+    position: absolute;
+    top: 5670px;
+    left: 250px;
+}
+
+.div19 {
+    width: 671px;
+    height: 672px;
+    position: absolute;
+    top: 5780px;
+    left: 140px;
+}
+
+.div20 {
+    width: 213px;
+    height: 36px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    top: 6000px;
+    left: 900px;
+}
+
+.div21 {
+    width: 311px;
+    height: 96px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    top: 6050px;
+    left: 900px;
+}
+
+.div22 {
+    width: 671px;
+    height: 672px;
+    position: absolute;
+    top: 6500px;
+    left: 600px;
+}
+
+.div23 {
+    width: 206px;
+    height: 72px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    top: 6700px;
+    left: 200px;
+}
+
+.div24 {
+    width: 298px;
+    height: 144px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    top: 6800px;
+    left: 200px;
+}
+
+.div25 {
+    width: 671px;
+    height: 672px;
+    position: absolute;
+    top: 7200px;
+    left: 140px;
+}
+
+.div26 {
+    width: 176px;
+    height: 72px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    top: 7450px;
+    left: 900px;
+}
+
+.div27 {
+    width: 309px;
+    height: 144px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    top: 7550px;
+    left: 900px;
+}
+
+.div28 {
+    width: 1344px;
+    height: 700px;
+    position: absolute;
+    top: 8000px;
+    left: 140px;
+}
+
+.div29 {
+    width: 1200px;
+    height: 465px;
+    position: absolute;
+    top: 8800px;
+    left: 200px;
+}
+
+.div30 {
+    width: 1440px;
+    height: 619px;
+    position: absolute;
+    top: 9300px;
+    left: 100px;
+}
